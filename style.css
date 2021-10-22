@@ -39,7 +39,7 @@ body {
   font-family: system-ui, sans-serif;
 }
 
-@media (orientation: landscape) {
+@media (orientation: portrait) {
   body {
     grid-auto-flow: column;
   }
