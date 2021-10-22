@@ -14,9 +14,9 @@ h1::before {
   position: absolute;
   top: 0; right: 0; bottom: 0; left: 0;
   inset: 0 0 0 0;
-  background: hsl(700000 100% 90%);
+  background: hsl(70000 100% 80%);
   z-index: -1;
-  transition: transform 1s ease;
+  transition: transform 5s ease;
 }
 
 h1 {
